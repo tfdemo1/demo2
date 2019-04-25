@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-25T12:10:48Z" name="TestCases.FindTransaction" finished-at="2019-04-25T12:11:12Z" duration-ms="23431">
+    <groups>
+    </groups>
+    <test started-at="2019-04-25T12:10:48Z" name="Command line test" finished-at="2019-04-25T12:11:12Z" duration-ms="23431">
+      <class name="TestCases.FindTransaction">
+        <test-method is-config="true" signature="before()[pri:0, instance:TestCases.FindTransaction@a9cd3b1]" started-at="2019-04-25T12:10:49Z" name="before" finished-at="2019-04-25T12:10:53Z" duration-ms="4204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="findTran(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.FindTransaction@a9cd3b1]" started-at="2019-04-25T12:10:53Z" name="findTran" data-provider="inputTran" finished-at="2019-04-25T12:11:00Z" duration-ms="7319" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[14898]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://parabank.parasoft.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[stefan5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[stefan5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findTran -->
+        <test-method is-config="true" signature="after()[pri:0, instance:TestCases.FindTransaction@a9cd3b1]" started-at="2019-04-25T12:11:00Z" name="after" finished-at="2019-04-25T12:11:01Z" duration-ms="639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:TestCases.FindTransaction@a9cd3b1]" started-at="2019-04-25T12:11:01Z" name="before" finished-at="2019-04-25T12:11:04Z" duration-ms="3583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="findTran(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.FindTransaction@a9cd3b1]" started-at="2019-04-25T12:11:04Z" name="findTran" data-provider="inputTran" finished-at="2019-04-25T12:11:11Z" duration-ms="6968" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15009]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://parabank.parasoft.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[stefan5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[stefan5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findTran -->
+        <test-method is-config="true" signature="after()[pri:0, instance:TestCases.FindTransaction@a9cd3b1]" started-at="2019-04-25T12:11:11Z" name="after" finished-at="2019-04-25T12:11:12Z" duration-ms="606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- TestCases.FindTransaction -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestCases.FindTransaction -->
+</testng-results>

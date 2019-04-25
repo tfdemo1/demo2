@@ -1,0 +1,4 @@
+TestCases\FindTransaction.class
+TestCases\OpenNewBankAccount.class
+TestCases\BasicTest.class
+TestCases\CreateUser.class

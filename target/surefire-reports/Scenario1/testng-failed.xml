@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Scenario1]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="TCs(failed)" verbose="0">
+    <classes>
+      <class name="TestCases.CreateUser">
+        <methods>
+          <include name="before"/>
+          <include name="after"/>
+          <include name="openPage" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- TestCases.CreateUser -->
+    </classes>
+  </test> <!-- TCs(failed) -->
+</suite> <!-- Failed suite [Scenario1] -->

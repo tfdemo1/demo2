@@ -1,0 +1,6 @@
+Pages\LoggedUserPage.class
+Pages\MainPage.class
+Pages\PageHelper.class
+Pages\FindTranPage.class
+Pages\OpenNewAccountPage.class
+Pages\RegisterPage.class
