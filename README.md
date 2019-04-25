@@ -1,4 +1,4 @@
-# Cucumber demo project
+# Selenium demo project
 
 My sample WWW automation project - [Test Page](http://parabank.parasoft.com)
 
@@ -6,6 +6,7 @@ My sample WWW automation project - [Test Page](http://parabank.parasoft.com)
 ## Introduction
 
 This is just sample test automation project on testing WWW. For this puropse Selenium framework has been used and some other tools described in "Build With" section. Project contains some sample Test Cases such us user registration, login into user account  and some basic operations. 
+Test users created on this Test page are automatically deleted after some time when they are not being used (it might be even few minutes).
 
 
 ### Prerequisites
